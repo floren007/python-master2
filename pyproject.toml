@@ -10,8 +10,8 @@ authors = [
 	{name = 'Florentino Garcia Martinez', email = 'flgarc01@ucm.es'}
 ]
 
-dependencies = [ "requests ~= 2.1",
-	"pandas ~= 2.1","matplotlib ~= 3.9.1" ]
+dependencies = [ "requests == 2.1",
+	"pandas == 2.2.2","matplotlib == 3.9.1" ]
 
 
 [tool.setuptools.packages.find]
