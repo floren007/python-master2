@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "BicimadFlorentino"
-version = "0.0.1"
+name = "bicimadFlorentino"
+version = "0.0.3"
 requires-python = ">=3.9"
 authors = [
 	{name = 'Florentino Garcia Martinez', email = 'flgarc01@ucm.es'}
